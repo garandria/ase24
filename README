@@ -1,3 +1,9 @@
 Repository of the paper titled "PyroBuildS: Speeding Up the Exploration of Large
 Configuration Spaces with Incremental Build" -- #35 Submitted at ASE'24
 
+Content
+
+  * Each directory corresponds to one subject system of the study. They contain
+    a directory that contains all generated configurations of the paper. The
+    data directory contains the obtained data plotted in the paper
+  * A Dockerfile is provided to obtain the same build environment of the paper
