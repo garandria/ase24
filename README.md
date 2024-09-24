@@ -44,3 +44,10 @@ paper:
 - configurations
 - build results
 - notebook to visualize the data.
+
+
+## Run the notebook
+
+You need to install pip first then run the pip commands in
+_pip.requirements_. Then, just run the notebook with the following command
+`jupyter notebook` and access to the Data.ipynb notebook.
